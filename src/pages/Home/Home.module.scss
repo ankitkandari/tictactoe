@@ -1,0 +1,13 @@
+@import '../../common/style/Common.scss';
+
+main {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: $primary-bg-gradient;
+}
+
+* {
+    color: #fff;
+    font-size: 12px;
+}

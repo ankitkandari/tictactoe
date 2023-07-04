@@ -1,0 +1,12 @@
+@import '../../common/style/Common.scss';
+
+.ttBoxArea {
+    .ttBoxWrapper {
+        display: grid;
+        max-width: 300px;
+        grid-template-columns: repeat(3, 1fr);
+        margin: auto;
+        margin-top: 10vh;
+        grid-gap: 5px;
+    }
+}

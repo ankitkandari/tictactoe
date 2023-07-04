@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+$primary-font-family: Helvetica, sans-serif;
+$primary-bg-gradient: linear-gradient(to right, rgb(0, 0, 0), rgb(49, 10, 49));
+$primary-border-gradient: linear-gradient(to right, #ee0979, #ff6a00);
+$primary-bg-color:#ff6a00;
+
+$layout-breakpoint-extra-large: 1200px;
+$layout-breakpoint-large: 1024px;
+$layout-breakpoint-medium: 992px;
+$layout-breakpoint-small: 768px;
+$layout-breakpoint-extra-small: 576px;
+$layout-breakpoint-2-extra-small: 480px;
+$layout-breakpoint-3-extra-small: 320px;
+
+*{
+    font-family: Poppins,sans-serif;
+}
